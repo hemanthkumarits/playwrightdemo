@@ -1,0 +1,5 @@
+berofre 1
+before start
+test2..
+after each test
+after all test1
